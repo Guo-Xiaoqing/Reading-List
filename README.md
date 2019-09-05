@@ -1,1 +1,1 @@
-# AIM_Lab_Reading_List
+# Reading List in [AIM Lab](http://www.ee.cityu.edu.hk/~yxyuan/index.htm) 
