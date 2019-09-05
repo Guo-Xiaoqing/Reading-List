@@ -36,3 +36,9 @@
 * Fu, Jun, et al. "Dual attention network for scene segmentation." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019.👍👍👍
 
 ## `Domain adaptation`
+* Kang, Guoliang, et al. "Contrastive Adaptation Network for Unsupervised Domain Adaptation." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019.👍👍👍👍👍
+* Chen, Yun-Chun, et al. "CrDoCo: Pixel-Level Domain Transfer With Cross-Domain Consistency." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. 👍👍👍👍
+* Chen, Chaoqi, et al. "Progressive Feature Alignment for Unsupervised Domain Adaptation." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. 👍👍👍👍👍
+* You, Kaichao, et al. "Universal Domain Adaptation." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019.
+* Zhu, Xinge, et al. "Adapting Object Detectors via Selective Cross-Domain Alignment." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019.👍👍👍
+* Gong, Rui, et al. "DLOW: Domain flow for adaptation and generalization." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019.👍👍👍👍
