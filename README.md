@@ -15,4 +15,5 @@
 * Oktay, Ozan, et al. "Attention u-net: Learning where to look for the pancreas." arXiv preprint arXiv:1804.03999 (2018).
 * Wang, Yi, et al. "Deep attentional features for prostate segmentation in ultrasound." International Conference on Medical Image Computing and Computer-Assisted Intervention. Springer, Cham, 2018.
 * Li, Hanchao, et al. "Pyramid attention network for semantic segmentation." arXiv preprint arXiv:1805.10180 (2018).
-* **AffinityNet** Ahn, Jiwoon, and Suha Kwak. "Learning pixel-level semantic affinity with image-level supervision for weakly supervised semantic segmentation." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018.
+* **AffinityNet:** Ahn, Jiwoon, and Suha Kwak. "Learning pixel-level semantic affinity with image-level supervision for weakly supervised semantic segmentation." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018.
+* 
