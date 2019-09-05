@@ -1,4 +1,4 @@
-# Reading List in [AIM Lab](http://www.ee.cityu.edu.hk/~yxyuan/index.
+# Reading List in [AIM Lab](http://www.ee.cityu.edu.hk/~yxyuan/index).
 * The goal of this document is to provide a reading list for Deep Learning in Computer Vision and Medical Image Analysis Field.
 
 ## `Attention & Saliency`
