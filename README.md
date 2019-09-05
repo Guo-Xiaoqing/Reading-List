@@ -17,3 +17,5 @@
 * Li, Hanchao, et al. "Pyramid attention network for semantic segmentation." arXiv preprint arXiv:1805.10180 (2018).
 * **AffinityNet:** Ahn, Jiwoon, and Suha Kwak. "Learning pixel-level semantic affinity with image-level supervision for weakly supervised semantic segmentation." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018.
 * 
+
+## `Domain adaptation`
