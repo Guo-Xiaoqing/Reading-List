@@ -45,7 +45,8 @@
 * Gong, Rui, et al. "DLOW: Domain flow for adaptation and generalization." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019.👍👍👍👍
 
 ## `Segmentation`
-* 
+* Deeplab: Chen, Liang-Chieh, et al. "Deeplab: Semantic image segmentation with deep convolutional nets, atrous convolution, and fully connected crfs." IEEE transactions on pattern analysis and machine intelligence 40.4 (2017): 834-848. 👍👍👍👍 [Tensorflow-code](https://github.com/DrSleep/tensorflow-deeplab-lfov)
+* Deeplab v3+: Chen, Liang-Chieh, et al. "Encoder-decoder with atrous separable convolution for semantic image segmentation." Proceedings of the European conference on computer vision (ECCV). 2018. 👍👍👍👍👍 [Tensorflow-code](https://github.com/rishizek/tensorflow-deeplab-v3-plus)
 
 ## `Semi-supervised & Unsupervised Learing`
 * 
