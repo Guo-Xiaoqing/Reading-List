@@ -13,7 +13,7 @@
 * Mahapatra, Dwarikanath, et al. "Image super resolution using generative adversarial networks and local saliency maps for retinal image analysis." International Conference on Medical Image Computing and Computer-Assisted Intervention. Springer, Cham, 2017.
 * Guan, Qingji, and Yaping Huang. "Multi-label chest X-ray image classification via category-wise residual attention learning." Pattern Recognition Letters (2018).
 * Wang, Xiaolong, et al. "Non-local neural networks." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018.👍👍👍👍👍
-* Zhang, Han, et al. "Self-attention generative adversarial networks." arXiv preprint arXiv:1805.08318 (2018). 👍👍👍👍
+* Zhang, Han, et al. "Self-attention generative adversarial networks." arXiv preprint arXiv:1805.08318 (2018). 👍👍👍👍([Tenforflow-code](https://github.com/taki0112/Self-Attention-GAN-Tensorflow))
 * Yan, Yichao, et al. "Multi-level attention model for person re-identification." Pattern Recognition Letters (2018). 
 * **SENet:** Hu, Jie, Li Shen, and Gang Sun. "Squeeze-and-excitation networks."In CVPR (2018). 👍👍👍👍👍
 * Roy, Abhijit Guha, Nassir Navab, and Christian Wachinger. "Concurrent spatial and channel ‘squeeze & excitation’in fully convolutional networks." International Conference on Medical Image Computing and Computer-Assisted Intervention. Springer, Cham, 2018. 👍👍👍👍
