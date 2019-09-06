@@ -44,19 +44,10 @@
 * Zhu, Xinge, et al. "Adapting Object Detectors via Selective Cross-Domain Alignment." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019.👍👍👍
 * Gong, Rui, et al. "DLOW: Domain flow for adaptation and generalization." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019.👍👍👍👍
 
-## `One-shot & Few-shot`
-* 
-
 ## `Segmentation`
 * 
 
 ## `Semi-supervised & Unsupervised Learing`
-* 
-
-## `Weakly Supervise Learning`
-* 
-
-## `Super Resolution`
 * 
 
 ## `Prior Information`
