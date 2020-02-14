@@ -69,17 +69,6 @@
 
 ## `Data Augmentation`
 *
-<!--  
-* Zhang H, Cisse M, Dauphin Y N, et al. mixup: Beyond empirical risk minimization[J]. arXiv preprint arXiv:1710.09412, 2017. 👍👍👍👍
-* Semi-Supervised Learning by Augmented Distribution Alignment. (ICCV 2019) 👍👍👍👍
-* Berthelot D, Carlini N, Goodfellow I, et al. Mixmatch: A holistic approach to semi-supervised learning[J]. arXiv preprint arXiv:1905.02249, 2019. 👍👍👍👍
-* Eaton-Rosen Z, Bragman F, Ourselin S, et al. Improving data augmentation for medical image segmentation[J]. 2018. 👍👍
-* Panfilov E, Tiulpin A, Klein S, et al. Improving Robustness of Deep Learning Based Knee MRI Segmentation: Mixup and Adversarial Domain Adaptation[C]//Proceedings of the IEEE International Conference on Computer Vision Workshops. 2019: 0-0. 👍👍
-* Chaitanya K, Karani N, Baumgartner C F, et al. Semi-supervised and Task-Driven Data Augmentation[C]//International Conference on Information Processing in Medical Imaging. Springer, Cham, 2019: 29-41. 👍👍
-* DeVries T, Taylor G W. Improved regularization of convolutional neural networks with cutout[J]. arXiv preprint arXiv:1708.04552, 2017. 👍👍👍
-* Yun S, Han D, Oh S J, et al. Cutmix: Regularization strategy to train strong classifiers with localizable features[J]. arXiv preprint arXiv:1905.04899, 2019. 👍👍👍
-* Semi-supervised semantic segmentation needs strong, high-dimensional perturbations 👍👍
--->
 
 ## `Prior Information`
 * 
