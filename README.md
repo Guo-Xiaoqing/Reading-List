@@ -49,7 +49,36 @@
 * Deeplab v3+: Chen, Liang-Chieh, et al. "Encoder-decoder with atrous separable convolution for semantic image segmentation." Proceedings of the European conference on computer vision (ECCV). 2018. 👍👍👍👍👍 [Tensorflow-code](https://github.com/rishizek/tensorflow-deeplab-v3-plus)
 
 ## `Semi-supervised & Unsupervised Learing`
-* 
+* Wei, Yunchao, et al. "Revisiting dilated convolution: A simple approach for weakly-and semi-supervised semantic segmentation." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018. 👍👍👍
+* Li, Xiaomeng, et al. "Semi-supervised Skin Lesion Segmentation via Transformation Consistent Self-ensembling Model." arXiv preprint arXiv:1808.03887 (2018). 👍👍👍
+* Zhang, Ying, et al. "Deep mutual learning." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018. 👍👍👍👍👍
+* Xie, Yutong, et al. "Semi-and Weakly Supervised Directional Bootstrapping Model for Automated Skin Lesion Segmentation." arXiv preprint arXiv:1903.03313 (2019). 👍👍👍
+* Wu, Si, et al. "Mutual Learning of Complementary Networks via Residual Correction for Improving Semi-Supervised Classification." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. 👍👍👍👍
+* Muhammad H, Sigel C S, Campanella G, et al. Unsupervised Subtyping of Cholangiocarcinoma Using a Deep Clustering Convolutional Autoencoder[C]//MICCAI 2019: 604-612. 👍👍👍
+* Xue Y, Zhou Q, Ye J, et al. Synthetic Augmentation and Feature-Based Filtering for Improved Cervical Histopathology Image Classification[C]//MICCAI 2019: 387-396. 👍👍
+* Yu L, Wang S, Li X, et al. Uncertainty-Aware Self-ensembling Model for Semi-supervised 3D Left Atrium Segmentation[C]//MICCAI 2019: 605-613. 👍👍👍
+* Chen S, Bortsova G, Juárez A G U, et al. Multi-task Attention-Based Semi-supervised Learning for Medical Image Segmentation[C]//MICCAI 2019: 457-465. 👍👍
+* Zheng H, Lin L, Hu H, et al. Semi-supervised Segmentation of Liver Using Adversarial Learning with Deep Atlas Prior[C]//MICCAI 2019: 148-156. 👍👍👍
+* Bortsova G, Dubost F, Hogeweg L, et al. Semi-supervised Medical Image Segmentation via Learning Consistency Under Transformations[C]//MICCAI 2019: 810-818. 👍👍
+* Kervadec H, Dolz J, Granger E, et al. Curriculum semi-supervised segmentation[J]. arXiv preprint arXiv:1904.05236, 2019. 👍👍👍
+* Yang J, Dvornek N C, Zhang F, et al. Unsupervised Domain Adaptation via Disentangled Representations: Application to Cross-Modality Liver Segmentation[C]//MICCAI 2019: 255-263. 👍👍👍
+* S4L: Self-Supervised Semi-Supervised Learning. (ICCV 2019) 👍👍👍
+* Invariant Information Clustering for Unsupervised Image Classification and Segmentation. (ICCV 2019) 👍👍👍👍
+* Qi G J, Zhang L, Chen C W, et al. AVT: Unsupervised Learning of Transformation Equivariant Representations by Autoencoding Variational Transformations[J]. arXiv preprint arXiv:1903.10863, 2019. 👍👍👍
+
+
+## `Data Augmentation`
+<!--  
+* Zhang H, Cisse M, Dauphin Y N, et al. mixup: Beyond empirical risk minimization[J]. arXiv preprint arXiv:1710.09412, 2017. 👍👍👍👍
+* Semi-Supervised Learning by Augmented Distribution Alignment. (ICCV 2019) 👍👍👍👍
+* Berthelot D, Carlini N, Goodfellow I, et al. Mixmatch: A holistic approach to semi-supervised learning[J]. arXiv preprint arXiv:1905.02249, 2019. 👍👍👍👍
+* Eaton-Rosen Z, Bragman F, Ourselin S, et al. Improving data augmentation for medical image segmentation[J]. 2018. 👍👍
+* Panfilov E, Tiulpin A, Klein S, et al. Improving Robustness of Deep Learning Based Knee MRI Segmentation: Mixup and Adversarial Domain Adaptation[C]//Proceedings of the IEEE International Conference on Computer Vision Workshops. 2019: 0-0. 👍👍
+* Chaitanya K, Karani N, Baumgartner C F, et al. Semi-supervised and Task-Driven Data Augmentation[C]//International Conference on Information Processing in Medical Imaging. Springer, Cham, 2019: 29-41. 👍👍
+* DeVries T, Taylor G W. Improved regularization of convolutional neural networks with cutout[J]. arXiv preprint arXiv:1708.04552, 2017. 👍👍👍
+* Yun S, Han D, Oh S J, et al. Cutmix: Regularization strategy to train strong classifiers with localizable features[J]. arXiv preprint arXiv:1905.04899, 2019. 👍👍👍
+* Semi-supervised semantic segmentation needs strong, high-dimensional perturbations 👍👍
+-->
 
 ## `Prior Information`
 * 
