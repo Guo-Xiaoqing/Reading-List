@@ -68,10 +68,42 @@
 
 
 ## `Data Augmentation`
-*
+* Cubuk E D, Zoph B, Mane D, et al. Autoaugment: Learning augmentation strategies from data[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2019: 113-123. 👍👍👍👍
+*	Lim S, Kim I, Kim T, et al. Fast autoaugment[C]//Advances in Neural Information Processing Systems. 2019: 6662-6672. 👍👍👍👍
+*	Ho D, Liang E, Stoica I, et al. Population based augmentation: Efficient learning of augmentation policy schedules[J]. arXiv preprint arXiv:1905.05393, 2019. 👍👍👍👍
+
 
 ## `Prior Information`
 * 
 
 ## `Loss function`
-* 
+* Liu, Weiyang, et al. "Large-margin softmax loss for convolutional neural networks." ICML. Vol. 2. No. 3. 2016. 👍👍👍👍
+* Sphereface : Liu, Weiyang, et al. "Sphereface: Deep hypersphere embedding for face recognition." Proceedings of the IEEE conference on computer vision and pattern recognition. 2017. 👍👍👍👍
+* Talmi, Itamar, Roey Mechrez, and Lihi Zelnik-Manor. "Template matching with deformable diversity similarity." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017. 👍👍👍👍
+* Wang, Jian, et al. "Deep metric learning with angular loss." Proceedings of the IEEE International Conference on Computer Vision. 2017. 👍👍👍👍
+* Lin, Tsung-Yi, et al. "Focal loss for dense object detection." Proceedings of the IEEE international conference on computer vision. 2017. 👍👍👍👍👍
+* Wong, Ken CL, et al. "3d segmentation with exponential logarithmic loss for highly unbalanced object sizes." International Conference on Medical Image Computing and Computer-Assisted Intervention. Springer, Cham, 2018. 👍👍👍
+* Chen, Bike, Chen Gong, and Jian Yang. "Importance-aware semantic segmentation for autonomous vehicles." IEEE Transactions on Intelligent Transportation Systems 20.1 (2018): 137-148.👍👍👍
+* Yu, Xin, et al. "Face super-resolution guided by facial component heatmaps." Proceedings of the European Conference on Computer Vision (ECCV). 2018.
+* Liu, Weiyang, et al. "Decoupled networks." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018. 👍👍👍👍👍
+* AutoLoss: Xu, Haowen, et al. "AutoLoss: Learning Discrete Schedules for Alternate Optimization." arXiv preprint arXiv:1810.02442 (2018).
+* Mechrez, Roey, Itamar Talmi, and Lihi Zelnik-Manor. "The contextual loss for image transformation with non-aligned data." Proceedings of the European Conference on Computer Vision (ECCV). 2018.
+* Wang, Xiaobo, et al. "Support Vector Guided Softmax Loss for Face Recognition." arXiv preprint arXiv:1812.11317 (2018). 👍👍👍👍👍
+* Wang, Feng, et al. "Additive margin softmax for face verification." IEEE Signal Processing Letters 25.7 (2018): 926-930. 👍👍👍👍
+* GM loss: Wan, Weitao, et al. "Rethinking feature distribution for loss functions in image classification." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018. 👍👍👍👍👍
+* Zhang, Xuaner, Ren Ng, and Qifeng Chen. "Single image reflection separation with perceptual losses." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018. 👍👍👍👍
+* Sun, Ming, et al. "Multi-attention multi-class constraint for fine-grained image recognition." Proceedings of the European Conference on Computer Vision (ECCV). 2018. 👍👍👍👍
+* Wang, Cheng, et al. "Mancs: A multi-task attentional network with curriculum sampling for person re-identification." Proceedings of the European Conference on Computer Vision (ECCV). 2018.
+* Liu, Weiyang, et al. "Learning towards minimum hyperspherical energy." Advances in Neural Information Processing Systems. 2018. 👍👍👍👍
+* Zhu, Xinge, et al. "Penalizing top performers: Conservative loss for semantic segmentation adaptation." Proceedings of the European Conference on Computer Vision (ECCV). 2018.👍👍👍
+*	Hayat, Munawar, et al. "Max-margin Class Imbalanced Learning with Gaussian Affinity." arXiv preprint arXiv:1901.07711 (2019). 👍👍👍
+*	Lifchitz, Yann, et al. "Dense Classification and Implanting for Few-Shot Learning." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. 👍👍👍👍
+*	CIA-Net: Zhou, Yanning, et al. "CIA-Net: Robust Nuclei Instance Segmentation with Contour-Aware Information Aggregation." International Conference on Information Processing in Medical Imaging. Springer, Cham, 2019. 👍👍👍
+*	Cui, Yin, et al. "Class-balanced loss based on effective number of samples." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019.
+*	Wang, Xinshao, et al. "Deep metric learning by online soft mining and class-aware attention." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 33. 2019. 👍👍👍👍
+*	Hui, Le, et al. "Inter-Class Angular Loss for Convolutional Neural Networks." Proceedings of the AAAI Conference on Artificial Intelligence. (2019).
+*	Arcface: Deng, Jiankang, et al. "Arcface: Additive angular margin loss for deep face recognition." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. 👍👍👍👍👍
+*	Fair Loss: Liu B, Deng W, Zhong Y, et al. Fair Loss: Margin-Aware Reinforcement Learning for Deep Face Recognition[C]//Proceedings of the IEEE International Conference on Computer Vision. 2019: 10052-10061. 👍👍👍👍
+*	Fine-grained Recognition: Accounting for Subtle Differences between Similar Classes （AAAI 2020）👍👍👍
+*	Bag of Tricks for Image Classification with Convolutional Neural Networks (CVPR 2019) 👍👍👍👍
+*	When Does Label Smoothing Help? (NeurIPS 2019) 
