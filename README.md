@@ -74,7 +74,10 @@
 
 
 ## `Prior Information`
-* 
+* Oktay, Ozan, et al. "Anatomically constrained neural networks (ACNNs): application to cardiac image enhancement and segmentation." IEEE transactions on medical imaging 37.2 (2017): 384-395. 👍👍👍👍
+*	Dalca, Adrian V., John Guttag, and Mert R. Sabuncu. "Anatomical priors in convolutional networks for unsupervised biomedical segmentation." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018. 👍👍👍👍👍
+*	Mirikharaji, Zahra, and Ghassan Hamarneh. "Star shape prior in fully convolutional networks for skin lesion segmentation." International Conference on Medical Image Computing and Computer-Assisted Intervention. Springer, Cham, 2018. 👍👍👍
+*	Chen C, Biffi C, Tarroni G, et al. Learning Shape Priors for Robust Cardiac MR Segmentation from Multi-view Images[C]//MICCAI 2019: 523-531. 👍👍👍
 
 ## `Loss function`
 * Liu, Weiyang, et al. "Large-margin softmax loss for convolutional neural networks." ICML. Vol. 2. No. 3. 2016. 👍👍👍👍
